@@ -6,7 +6,7 @@ const Header = () => {
 
         <div className="p-hinfo">
           <ul className="p-hinfo__list">
-            <li>新宿三丁目駅から<span className="u-text-gold">90分</span><span className="data">　初診専用<span className="phone"><a data-gtm-click="shinjuku-yoyaku" href="https://web.booking.clius.jp/reserve/hachicliyoyaku" target="_blank" className="ebis_button_trigger" data-cid="ebLb2Se6" data-pid="shinjuku_yoyaku"><i className="far fa-calendar-alt"></i> オンライン予約</a></span>　TEL<span className="phone"><a href="tel:03-5990-2892" className="ebis_button_trigger" data-cid="ebLb2Se6" data-pid="shinjuku_hemo_tel">03-5990-2892</a></span></span></li>
+            <li>新宿三丁目駅から<span className="u-text-gold">190分</span><span className="data">　初診専用<span className="phone"><a data-gtm-click="shinjuku-yoyaku" href="https://web.booking.clius.jp/reserve/hachicliyoyaku" target="_blank" className="ebis_button_trigger" data-cid="ebLb2Se6" data-pid="shinjuku_yoyaku"><i className="far fa-calendar-alt"></i> オンライン予約</a></span>　TEL<span className="phone"><a href="tel:03-5990-2892" className="ebis_button_trigger" data-cid="ebLb2Se6" data-pid="shinjuku_hemo_tel">03-5990-2892</a></span></span></li>
           </ul>
         </div>
       </div></div>
